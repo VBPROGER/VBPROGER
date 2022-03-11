@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing languages.
 - 🌱 I’m currently learning JavaScript.
 
-[![VBPROGER's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbproger&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![VBPROGER's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbproger&show_icons=true&theme=radical)]
 
 <!---
 VBPROGER/VBPROGER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
