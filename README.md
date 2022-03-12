@@ -1,5 +1,5 @@
 - 👋 **Hi, I’m @VBPROGER!**
-- 👀 **I’m interested in programing languages.**
+- 👀 **I’m interested in programing languages and malware analysis.**
 - 🌱 **I’m currently learning JavaScript.**
 - 👨‍💻 **I love create programs with Python, ~~HTML (this is not programing language),~~ JavaScript, Bash and Perl!**
 - 📋 **Soon I will make more cool projects in languages that I mentioned above.**
