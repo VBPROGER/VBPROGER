@@ -1,6 +1,6 @@
 - 👋 **Hi, I’m [@VBPROGER](https://github.com/VBPROGER)!**
 - 👀 **I’m interested in programing languages and malware analysis.**
-- 🌱 **I’m currently learning C++ and Java.**
+- 🌱 **I’m currently learning C++, Java and C#.**
 - 👨‍💻 **I love creating programs with Python, C++, ~~HTML (this is not a programing language),~~ JavaScript, Java, Bash and Perl!**
 - 📋 **Soon I will make more cool projects in languages that I mentioned above.**
 - 🔗 **Also I have my own website! Visit it [(click me)](https://vbproger.github.io)!**
